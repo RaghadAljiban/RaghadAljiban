@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghadaljiban&label=Profile%20views&color=0e75b6&style=flat" alt="raghadaljiban" /> </p>
 
-<p align="left"> <a href="https://twitter.com/raghadaix" target="blank"><img src="https://img.shields.io/twitter/follow/raghadccsit?logo=twitter&style=for-the-badge" alt="raghadccsit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raghadaix" target="blank"><img src="https://img.shields.io/twitter/follow/raghadccsit?logo=twitter&style=for-the-badge" alt="raghadaix" /></a> </p>
 
 - 🌱 I’m currently learning **Complete Machine Learning & Data Science Bootcamp 2023 course at Udemy**
 
